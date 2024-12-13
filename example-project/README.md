@@ -34,7 +34,7 @@ Iterative optimization algorithms are a type of numerical method whose objective
 
 These different iterative methods can be generalized to a common strategy that depends on *step length*, $\alpha$, and *rate of learning*, *d*. The rate of learning specifies the direction in which to iterate the design variables, while the step length indicates by how much to change the values of the design variables. Different algorithms have different strategies for selecting the values for step length and learning rate, which affects their speed of computation and ability to converge on a minimum value.
 
-![](general_iteration.PNG)
+![](2d-linearSystem.PNG)
 
 **General Iterative Method** [1]
 1. Start with an initial trial point, **$x_{i}$**
